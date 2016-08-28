@@ -1,0 +1,12 @@
+﻿body {
+    font-family: 'Open Sans', sans-serif;
+    /*padding-top: 80px;*/
+}
+
+.navbar-inverse .navbar-brand {
+    color: burlywood;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #cac8c8;
+}
